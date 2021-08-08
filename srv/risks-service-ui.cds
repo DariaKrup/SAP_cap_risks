@@ -53,6 +53,7 @@ annotate RiskService.Risks with @(
 		],
 		FieldGroup#Main: {
 			Data: [
+				{Value: title},
 				{Value: miti_ID},
 				{
 					Value: prio,
